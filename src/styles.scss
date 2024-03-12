@@ -72,3 +72,5 @@ body {
 .mat-warning[disabled] {
     background-color: rgba(0, 0, 0, 0.12) !important;
 }
+/* Importing Bootstrap SCSS file. */
+@import 'bootstrap/scss/bootstrap';
